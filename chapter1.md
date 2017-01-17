@@ -1,3 +1,3 @@
-# First Chapter
+# 기본사항
 
-GitBook allows you to organize your book into chapters, each chapter is stored in a separate file like this one.
+## 반응 변수/설명 변수에 따른 통계 방법 
