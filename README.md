@@ -1,3 +1,4 @@
-# My Awesome Book
+# 주요 구성 
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+* 책 : 크롤리의 통계학 강의(R을 활용한 입문) 
+    * Statistics An introduction using R
