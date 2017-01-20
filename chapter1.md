@@ -128,15 +128,14 @@
 
     모집단의 분산 & 표본의 분산   
     $$
-    모집단의 분산 = \sigma^2 = \frac{제곱합}{자유도} =     \frac{\sum(y-\overline y)^2}{n}
+    모집단의 분산 = \sigma^2 = \frac{\sum(y-\overline y)^2}{n}
     $$
 
     $$
-    분산 = s^2 = \frac{제곱합}{자유도} = \frac{\sum(y-\overline   y)^2}{n-1}
+    표본의 분산 = s^2 = \frac{\sum(y-\overline   y)^2}{n-1}
     $$
     
     표본은 모집단이 아니므로 마지막 값을 자유롭게 뽑을수 없음
-    
     
 
 # 분산
