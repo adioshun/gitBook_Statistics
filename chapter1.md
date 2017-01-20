@@ -167,5 +167,17 @@ $$
 # 표본 크기(=반복 시행 수)
 * 
 
+
+# 평균 & 표준편차 & 분산
+* 데이터는 오차(=치우침)를 관리하고 예측 하는것이 주요 
+* 통계 = 오차를 분석하고 관리 하는 학문 
+* 치우침을 표현하는 대표적 척도가 `표준편차`(SD[^2])와 `분산`이다.  
+* 얼마나 치우쳤는지 비교 하기 위해 __기준점__ 필요 
+  * 기준점으로 
+
+
 ---
 [1] : https://en.wiktionary.org/wiki/Appendix:Unicode/Mathematical_Operators "Appendix:Unicode/Mathematical Operators"
+
+
+[^2]: SD = Standard Deviation 
