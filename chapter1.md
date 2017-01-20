@@ -130,6 +130,31 @@ $$
 분산 = s^2 = \frac{제곱합}{자유도} = \frac{\sum(y-\overline y)^2}{n-1}
 $$
 
-두 데이터의 분산이 같다면(등분산)면 통계 분석(=평균 비교)의 중요한 가정을 만족한것
+* 두 데이터의 분산이 같다면(등분산)면 통계 분석(=평균 비교)의 중요한 가정을 만족한것
 
 > 분산이 다르면 평균 비교를 해서는 안된다. 
+
+## 분산의 사용 분야 
+#### 1. 비신뢰도(unreliability)의 측정
+* eg. 신뢰구간
+* 비신뢰도의 측정치 = 표준오차 
+
+$$
+비신뢰도 \propto \sqrt{\frac{s^2}{n}}
+$$
+
+> [$$\propto$$](1) : 비례하는
+
+> 분산($$s^2$$)이 커질수록 비신뢰도는 증가 -분자에 위치 
+
+> 표본크기($$n$$)이 커질수록 비신뢰도는 감소 - 분모에 위치
+
+#### 2. 가설 검정
+* eg. 스튜던트 $$t$$검정 
+
+
+# 표본 크기(=반복 시행 수)
+* 
+
+---
+[1] : https://en.wiktionary.org/wiki/Appendix:Unicode/Mathematical_Operators "Appendix:Unicode/Mathematical Operators"
