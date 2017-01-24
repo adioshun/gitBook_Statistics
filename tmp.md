@@ -309,6 +309,28 @@ $$
 |  |(작은)표본의 상관성|피셔의 정확 검정|fisher.test|
 |3+표본||사후분석, 일원배치분산분석||
 
+
+# Correlation coefficients 
+### Continuous vs. Continuous
+* cor(x, use, method = “Pearson OR spearman OR kendall”)
+  * Pearson :  quantitative variables 간의 degree of linear relationship 
+  * Spearman’s :  rank-ordered variables. 간의 degree of relationship 
+  * Kendall’s Tau : nonparametric measure of rank correlation
+* cor.test() : 
+
+### Continuous vs. Nominal
+* Significance tests: run an ANOVA. In R, you can use ?aov.
+* Effect size (strength of association): intraclass correlation, ?icc
+
+### Nominal vs. Nominal
+* Significance tests: run a chi-squared test. In R, you use ?chisq.test.
+* Effect size (strength of association): calculate Cramer's V. In R, you can use ?assocstats in the vcd package.
+* 명목형 && 이분변수 : 크래머(Cramer’s phi)
+
+http://stats.stackexchange.com/questions/108007/correlations-with-categorical-variables
+http://stats.stackexchange.com/questions/119835/correlation-between-a-nominal-iv-and-a-continuous-dv-variable/124618#124618 
+
+
 --- 
 
 # 확률 분포
