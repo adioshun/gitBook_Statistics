@@ -309,6 +309,17 @@ $$
 |  |(작은)표본의 상관성|피셔의 정확 검정|fisher.test|
 |3+표본||사후분석, 일원배치분산분석||
 
+||연속형|연속형(서열형)|명목형(이분변수)|명목형(수준3이상)|
+|-|-|-|-|-|
+|연속형|Pearson's R||Point-Biserial(양분상관계수)||
+|연속형(서열형)||Spearman’s rho/Kendall’s rau|||
+|명목형(이분변수)|||Cramer’s phi||
+|명목형(수준3이상)||||Goodman, Kruskal’s lambda|
+
+
+
+
+
 
 # Correlation coefficients 
 ### Continuous vs. Continuous
