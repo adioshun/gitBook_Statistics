@@ -88,13 +88,20 @@ $$
   * 자료의 이상치 점검
   * 가설 검정과 연결 
 
-> [참고] 변이계수(Coefficient of Variation)
-> * 특정 단위가 다르거나 자료값의 차이가 큰 경우 
-> * $$CV = 100 * \frac{s}{\overline x}$$
-> * eg. 어린아이와 어른의 몸무게 분포 비교 
+[참고] 변이계수(Coefficient of Variation)
+ * 특정 단위가 다르거나 자료값의 차이가 큰 경우 
+ * $$CV = 100 * \frac{s}{\overline x}$$
+ * eg. 어린아이와 어른의 몸무게 분포 비교 
 
 
+[참고] 체리세프의 정리 
+ * $$ \mu \pm k\sigma, 100 \left(1-\begin{array}{c}1\\ k^2\end{array}\right) $$
 
+[참고] Empirical Rule(경험적 법칙)
+* k=1, 68.26% 이상의 데이터가 $$ \mu \pm 1\sigma $$ 안에 있음
+* k=2, 95.44% 이상의 데이터가 $$ \mu \pm 2\sigma $$ 안에 있음
+* k=3, 99.73% 이상의 데이터가 $$ \mu \pm 3\sigma $$ 안에 있음
+![Empirical Rule](/assets/empir.PNG)
 
 
 #### 2. 표로 기술 
