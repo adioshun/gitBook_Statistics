@@ -145,7 +145,7 @@ $$
   * Paired Sample t-test일 때,$$H_0 : \mu_d = 0 $$
   * Correlation Analysis일 때, $$H_0 : \rho = 0 $$
 
-
+![](/assets/q1.PNG)
 
 ###### [참고] 가설 검정의 오류 
 * 1종 오류\($$ \alpha$$\) : 귀무가설이 참일때 이를 기각한다.\(eg. 차이or효과가 없는데 차이or효과가 있다고 판단\)
