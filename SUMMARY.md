@@ -5,4 +5,5 @@
 * [통계추론 분석\_심화](통계-분석.md)
 * [확률분포](확률분포.md)
 * [기술통계분석](기술통계분석.md)
+* [\[ref\] Common Probability Distributions](ref-common-probability-distributions.md)
 
