@@ -9,6 +9,7 @@
 
 - Youtube : [이상화교수](https://www.youtube.com/playlist?list=PLSN_PltQeOyjmRIsC7VNirXOBqWoypd4V)
 
+- 교재 : Fundamentals of applied probability and random processes by oliver ibe﻿
 
 ## 데이터 분석 3대 방법론 
 ![](/assets/three_main.jpg)
