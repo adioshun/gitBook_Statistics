@@ -5,8 +5,9 @@
 
 
 
-* Youtube : \[이상철의 통계\]\(https://www.youtube.com/watch?v=WsVb2jELGXY\)
+* Youtube : [이상철의 통계](https://www.youtube.com/watch?v=WsVb2jELGXY)
 
+- Youtube : [이상화교수](https://www.youtube.com/playlist?list=PLSN_PltQeOyjmRIsC7VNirXOBqWoypd4V)
 
 
 ## 데이터 분석 3대 방법론 
