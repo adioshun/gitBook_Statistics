@@ -15,6 +15,12 @@
 
 ## 2. method of maximum likelihood 
 
+만약 추출된 표본으로부터 likelihood function을 구했다면,
+likelihood function을 최대로 만들어주는 모수를 찾는 것
+
+|$$L(\hat\theta; x_1,...,x_n) = \max_{\theta \in \Xi}L(\theta; x_1,...,x_n)$$|
+|-|
+|- $$\Xi$$는 가능한 모든 모수의 집합, $$\theta$$는 모수 |
 
 ###### [참고] MLEs를 이용하여 모수 population parameter 를 추정하는 방법
 - [Geometric distribution의 모수 추정하기](http://m.blog.daum.net/gongdjn/123)
@@ -42,14 +48,14 @@
 
 ###### Step 1. 확률 분포 함수는 어떤 모수(파라미터)를 전제로 하고 있다. 
     - eg. 정규분포 : $$f(x) =  \frac{1}{\sqrt{2\pi\sigma}}e^{-x-\mu^2/2\sigma^2}$$
-    - 정규분포 파라미터 $$평규(\mu), 분산(\sigma^2)$$ 
+    - eg. 정규분포 파라미터 : $$평균(\mu), 분산(\sigma^2)$$ 
 
 ###### Step 23. 파라미터를 변수로 생각 한다면 아래와 같은 조건부 확률로 표현 할수 있다. 
 - $$f(x \mid \mu,\sigma) = f(x ; \mu,\sigma) = \frac{1}{\sqrt{2\pi\sigma}}e^{-x-\mu^2/2\sigma^2} $$
 - $$\mu,\sigma$$가 주어 졌을때 x에 대한 확률(밀도) 함수 
 
-###### Step 3. 역으로 어떤 표본값(x=1)1이 주어 졌을때 모수 population parameter 에 대한 함수로 표현하면 어떻게 되나
-- $$f(1 \mid \mu,\sigma) = f(1 ; \mu,\sigma) = \frac{1}{\sqrt{2\pi\sigma}}e^{-1-\mu^2/2\sigma^2} $$
+###### Step 3. 역으로 어떤 표본값(x=1)이 주어 졌을때 모수 population parameter 에 대한 함수로 표현하면 어떻게 되나
+- $$f(\mu,\sigma) = f(\mu,\sigma) = \frac{1}{\sqrt{2\pi\sigma}}e^{-1-\mu^2/2\sigma^2} $$
 - 이와 같은 식을 likelihood function(우도 함수)라고 한다. 
 
 ###### Step 4. 최종식/정리 
@@ -66,6 +72,9 @@
 5. 결합 확률 밀도 함수는 개별적인 확률 밀도 함수의 곱으로 나타낼 수 있다.
 
 ![](http://i.imgur.com/NbT9lH9.png)
+
+###### [예제]
+![](http://i.imgur.com/tyG2W9w.png)
 
 
 ### 1.2 likelihood 
