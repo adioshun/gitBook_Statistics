@@ -22,6 +22,18 @@ likelihood function을 최대로 만들어주는 모수를 찾는 것
 |-|
 |- $$\Xi$$는 가능한 모든 모수의 집합, $$\theta$$는 모수 |
 
+주어진 샘플  x 에 대해 우도를 가장 크게 해 주는 모수  θ 를 찾는 방법
+
+##### 예제 
+정규 분포에서 분산($$\sigma^2 = 1$$), 샘플($$x_1 =1 $$)은 알고 있으나 평균($$\mu$$)을 모를 경우, 
+- 어떤 $$\mu(\mu =-1, \mu =0, \mu=1)$$ 값이 가장 가능성(우도)이 있어 보이는가?
+- 이 세가지 $$\mu$$값에 대해 $$x_0$$이 나올 확률이 바로 우도 이다. 
+
+![](http://i.imgur.com/DC9Eadn.png)
+
+1일 경우의 우도가 가장 크다. 따라서 MLE에 위한 추정값은 1이다. 
+
+
 ###### [참고] MLEs를 이용하여 모수 population parameter 를 추정하는 방법
 - [Geometric distribution의 모수 추정하기](http://m.blog.daum.net/gongdjn/123)
 - [Poisson distribution의 모수 추정하기](http://m.blog.daum.net/gongdjn/124)
@@ -47,16 +59,36 @@ likelihood function을 최대로 만들어주는 모수를 찾는 것
 ### 1.1 개요 
 
 ###### Step 1. 확률 분포 함수는 어떤 모수(파라미터)를 전제로 하고 있다. 
-    - eg. 정규분포 : $$f(x) =  \frac{1}{\sqrt{2\pi\sigma}}e^{-x-\mu^2/2\sigma^2}$$
-    - eg. 정규분포 파라미터 : $$평균(\mu), 분산(\sigma^2)$$ 
+- 확률변수 X에 대한 확률 모형은 확률 밀도 함수 $$F_X$$에 의해 정의 된다. 
+- 확률 밀도 함수 : $$F_X(x;\theta)$$
+    - $$x$$ : 확률 변수가 가질 수 있는 실수 값
+    - $$\theta$$ : 확률 밀도 함수, 확률 모형의 모수(parameter) 집합 eg. 정규 분포 : $$\theta = (\mu, \sigma^2)$$
 
-###### Step 23. 파라미터를 변수로 생각 한다면 아래와 같은 조건부 확률로 표현 할수 있다. 
+정규분포 예 
+
+$$
+
+f_X(x;\theta) =  \frac{1}{\sqrt{2\pi\sigma}}e^{-x-\mu^2/2\sigma^2}
+
+$$ 
+
+
+
+###### Step 2. 파라미터를 변수로 생각 한다면 아래와 같은 조건부 확률로 표현 할수 있다. 
 - $$f(x \mid \mu,\sigma) = f(x ; \mu,\sigma) = \frac{1}{\sqrt{2\pi\sigma}}e^{-x-\mu^2/2\sigma^2} $$
 - $$\mu,\sigma$$가 주어 졌을때 x에 대한 확률(밀도) 함수 
 
+함수 입장에서 $$\theta(\mu,\sigma)$$는 상수로 고정된 값이고 $$x$$를 변수로 가정한다. 
+- 즉, 이미 확률 변수 모형은 고정되어 있고 주어진 실수 입력값에 대해 그 실수값이 나올 상대적 가능성을 출력
+
 ###### Step 3. 역으로 어떤 표본값(x=1)이 주어 졌을때 모수 population parameter 에 대한 함수로 표현하면 어떻게 되나
+
+추정 문제에서는 x는 샘플로 알고 있고, 모수$$(\theta)$$를 모르고 있다 $$L(\theta;x)$$
+
 - $$f(\mu,\sigma) = f(\mu,\sigma) = \frac{1}{\sqrt{2\pi\sigma}}e^{-1-\mu^2/2\sigma^2} $$
 - 이와 같은 식을 likelihood function(우도 함수)라고 한다. 
+
+
 
 ###### Step 4. 최종식/정리 
 
@@ -73,8 +105,14 @@ likelihood function을 최대로 만들어주는 모수를 찾는 것
 
 ![](http://i.imgur.com/NbT9lH9.png)
 
+
+![](http://i.imgur.com/tuwUN5z.png)
+
 ###### [예제]
 ![](http://i.imgur.com/tyG2W9w.png)
+
+
+
 
 
 ### 1.2 likelihood 
