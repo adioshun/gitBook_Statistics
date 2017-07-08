@@ -109,8 +109,8 @@ $$
 
 ![](http://i.imgur.com/tuwUN5z.png)
 > [likelihood가 확률 probability와 개념이 어떻게 다를까.]
-The concept of probability is appropriate to a situation where observation are going to be made and we are interested in the probabilties of various possible sets of values that might be observed, taking the parameter θ as fixed (even if unknown);
-While the concept of likelihood is appropriate to a situation where data have already been obtained, and all conceivable values of θ are to be considered in the light of the data.
+probability is appropriate to a situation where observation are going to be made and we are interested in the probabilties of various possible sets of values that might be observed, taking the parameter θ as fixed (even if unknown);
+likelihood is appropriate to a situation where data have already been obtained, and all conceivable values of θ are to be considered in the light of the data.
 
 
 ###### [예제]
