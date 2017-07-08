@@ -108,6 +108,10 @@ $$
 
 
 ![](http://i.imgur.com/tuwUN5z.png)
+> [likelihood가 확률 probability와 개념이 어떻게 다를까.]
+The concept of probability is appropriate to a situation where observation are going to be made and we are interested in the probabilties of various possible sets of values that might be observed, taking the parameter θ as fixed (even if unknown);
+While the concept of likelihood is appropriate to a situation where data have already been obtained, and all conceivable values of θ are to be considered in the light of the data.
+
 
 ###### [예제]
 ![](http://i.imgur.com/tyG2W9w.png)
@@ -130,7 +134,8 @@ Likelihood =우도,2 尤度, 가능성/가능도
     - 구체적으로, 주어진 표집값에 대한 모수의 가능도는 이 모수를 따르는 분포가 주어진 관측값에 대하여 부여하는 확률
     
 - 알려진 결과(관측된 표본)에 기초하여 미지의 모수(매개변수)의 추정에 대한 평가 척도
-
+    - 우도 likelihood는 한 개 혹은 몇 개 데이타를 관측해서 그 값들이 어떤 확률분포를 갖는 모집단에서 나왔다고 보는 것이 좋겠는가 하는 유사성이다.
+    
 - 확률분포함수의 y값, 일어날 가능성이 높은 사건   
     - 주사위 문제: 가능도 = 확률
     - 연속사건(정규분포): 가능동 = PDF
