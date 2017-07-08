@@ -1,16 +1,3 @@
-# 주요 구성
-
-* 책 : 크롤리의 통계학 강의\(R을 활용한 입문\) 
-  * Statistics An introduction using R
-
-
-
-* Youtube : [이상철의 통계](https://www.youtube.com/watch?v=WsVb2jELGXY)
-
-- Youtube : [이상화교수](https://www.youtube.com/playlist?list=PLSN_PltQeOyjmRIsC7VNirXOBqWoypd4V)
-
-- 교재 : Fundamentals of applied probability and random processes by oliver ibe﻿
-
 ## 데이터 분석 3대 방법론 
 ![](/assets/three_main.jpg)
 
@@ -20,4 +7,18 @@
 
 
 
+
+---
+책 
+- 크롤리의 통계학 강의\(R을 활용한 입문\, Statistics An introduction using R)
+
+Youtube
+
+- Youtube : [이상철의 통계](https://www.youtube.com/watch?v=WsVb2jELGXY)
+
+- Youtube : [이상화교수](https://www.youtube.com/playlist?list=PLSN_PltQeOyjmRIsC7VNirXOBqWoypd4V)
+  - 교재 : Fundamentals of applied probability and random processes by oliver ibe﻿
+
+블로그
+- [나랭이의 수학 블로그](http://math7.tistory.com/)
 
