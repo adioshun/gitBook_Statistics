@@ -33,6 +33,7 @@ likelihood function을 최대로 만들어주는 모수를 찾는 것
 
 1일 경우의 우도가 가장 크다. 따라서 MLE에 위한 추정값은 1이다. 
 
+> 구현시는 우도를 로그변환한 로그 우도(Log likelihood)함수로 변환 하여 계산 용이 하도록 함(곱셈->덧셈)
 
 ###### [참고] MLEs를 이용하여 모수 population parameter 를 추정하는 방법
 - [Geometric distribution의 모수 추정하기](http://m.blog.daum.net/gongdjn/123)
