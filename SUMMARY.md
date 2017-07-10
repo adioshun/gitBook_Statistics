@@ -10,5 +10,5 @@
 * [Chap02\_순열과 조합](chap02c21c-c5f4-acfc-c870-d569.md)
 * [Chap03\_확률변수의 정의](chap03d655-b960-bcc0-c218-c758-c815-c758.md)
 * [\[ref\] Common Probability Distributions](ref-common-probability-distributions.md)
-* [ref01\_확률함수\_PDF\_CDF](ref01d655-b960-d568-c218-pdf-cdf.md)
+* [ref01\_확률함수\_PMF\_PDF\_CDF](ref01d655-b960-d568-c218-pdf-cdf.md)
 
