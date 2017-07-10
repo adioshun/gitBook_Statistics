@@ -22,4 +22,4 @@ Youtube
 
 블로그
 - [나랭이의 수학 블로그](http://math7.tistory.com/)
-
+- [수악중독](http://mathjk.tistory.com/)
