@@ -2,6 +2,7 @@
     "plugins": ["latex-codecogs"]
 }
 
+
 {
     "plugins": ["page-toc-button"],
     "pluginsConfig": {
