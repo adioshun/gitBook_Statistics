@@ -30,7 +30,7 @@
   * [확률 분포 추정\_비모수적](d655-b960-bc00-b3c4-d568-c218-cd94-c815/d655-b960-bd84-d3ec-cd94-c815-be44-baa8-c218-c801.md)
   * [확률 분포 추정\_혼합형](d655-b960-bc00-b3c4-d568-c218-cd94-c815/d655-b960-bd84-d3ec-cd94-c815-d63c-d569-d615.md)
 
----
+## 참고
 
 * [\[ref\] Common Probability Distributions](ref-common-probability-distributions.md)
 * [ref01\_확률함수\_PMF\_PDF\_CDF](ref01d655-b960-d568-c218-pdf-cdf.md)
