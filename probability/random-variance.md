@@ -1,5 +1,9 @@
 # 용어
 
+![](https://i.imgur.com/7qAV4Wh.png)
+
+
+
 ![](https://i.imgur.com/pkyG0xQ.png)
 
 확률변수(Random variable): 확률에 따라 변하는 값 (변수 = 특정 조건에 따라 변하는 값)

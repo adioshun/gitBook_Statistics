@@ -20,11 +20,16 @@
 
 ## Probability
 
-* README
+* [README](probability/readme.md)
 * [Random-Variance](probability/random-variance.md)
 * [Probability-Distribution](probability/probability-distribution.md)
   * [Common Probability Distributions](probability/probability-distribution/common-probability-distributions.md)
 * [Probability-Function](probability/probability-function.md)
+  * [Probability Mass Function](probability/probability-function/probability-mass-function.md)
+  * [Probability Density Function](probability/probability-function/probability-density-function.md)
+  * [Cumulative Distribution Function](probability/probability-function/cumulative-distribution-function.md)
+  * Joint Distribution Function
+  * [README](probability/probability-function/readme.md)
 
 ## 패턴 학습과 통계
 
