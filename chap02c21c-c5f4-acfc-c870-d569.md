@@ -1,4 +1,4 @@
-# Combinatorial Anolysis 
+# Combinatorial Analysis 
 
 ## 1. 순열(Permutations)
 
