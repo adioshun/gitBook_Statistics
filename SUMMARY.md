@@ -23,6 +23,8 @@
 
 ## Probability
 
+* Terms
+
 ## 패턴 학습과 통계
 
 * [Bayes 정리](bayes-c815-b9ac.md)
