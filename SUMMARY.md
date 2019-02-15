@@ -25,7 +25,6 @@
 * [Probability-Distribution](probability/probability-distribution.md)
   * [Common Probability Distributions](probability/probability-distribution/common-probability-distributions.md)
 * [Probability-Function](probability/probability-function.md)
-* [\[ref\] Common확률분포](ref-common-probability-distributions.md)
 
 ## 패턴 학습과 통계
 
