@@ -2,8 +2,7 @@
 
 ## 개요
 
-* [Terms](terms.md)
-* [Introduction](README.md)
+* [README](README.md)
 * [기술통계분석](기술통계분석.md)
 
 ## 통계 기초
