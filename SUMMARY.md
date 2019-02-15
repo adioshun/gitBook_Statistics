@@ -28,7 +28,7 @@
   * [Probability Mass Function](probability/probability-function/probability-mass-function.md)
   * [Probability Density Function](probability/probability-function/probability-density-function.md)
   * [Cumulative Distribution Function](probability/probability-function/cumulative-distribution-function.md)
-  * Joint Distribution Function
+  * [Joint Distribution Function](probability/probability-function/joint-distribution-function.md)
   * [README](probability/probability-function/readme.md)
 
 ## 패턴 학습과 통계
