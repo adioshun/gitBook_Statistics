@@ -25,7 +25,7 @@
 * [Random-Variance](probability/random-variance.md)
 * [Terms](probability/terms.md)
 * [Probability-Distribution](probability/probability-distribution.md)
-* Probability-Function
+* [Probability-Function](probability/probability-function.md)
 * [확률분포](확률분포.md)
 * [확률함수](ref01d655-b960-d568-c218-pdf-cdf.md)
 * [\[ref\] Common확률분포](ref-common-probability-distributions.md)
