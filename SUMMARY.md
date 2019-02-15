@@ -30,6 +30,7 @@
   * [Cumulative Distribution Function](probability/probability-function/cumulative-distribution-function.md)
   * [Joint Distribution Function](probability/probability-function/joint-distribution-function.md)
   * [README](probability/probability-function/readme.md)
+  * [Conditional Distribution](probability/probability-function/conditional-distribution.md)
 
 ## 패턴 학습과 통계
 
