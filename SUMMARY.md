@@ -22,9 +22,9 @@
 ## Probability
 
 * README
-* Random-Variance
+* [Random-Variance](probability/random-variance.md)
 * [Terms](probability/terms.md)
-* Probability-Distribution
+* [Probability-Distribution](probability/probability-distribution.md)
 * Probability-Function
 * [확률분포](확률분포.md)
 * [확률함수](ref01d655-b960-d568-c218-pdf-cdf.md)
