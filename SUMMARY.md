@@ -19,19 +19,12 @@
 
 ## 확률 기초
 
-
-
 ## Probability
 
 * [Terms](probability/terms.md)
 * [확률분포](확률분포.md)
 * [확률함수](ref01d655-b960-d568-c218-pdf-cdf.md)
-* [\[ref\] Common Probability Distributions](ref-common-probability-distributions.md)
-
-
-
-
-
+* [\[ref\] Common확률분포](ref-common-probability-distributions.md)
 
 ## 패턴 학습과 통계
 
@@ -41,9 +34,4 @@
   * [확률 분포 추정\_모수적](d655-b960-bc00-b3c4-d568-c218-cd94-c815/d655-b960-bd84-d3ec-cd94-c815-baa8-c218-c801.md)
   * [확률 분포 추정\_비모수적](d655-b960-bc00-b3c4-d568-c218-cd94-c815/d655-b960-bd84-d3ec-cd94-c815-be44-baa8-c218-c801.md)
   * [확률 분포 추정\_혼합형](d655-b960-bc00-b3c4-d568-c218-cd94-c815/d655-b960-bd84-d3ec-cd94-c815-d63c-d569-d615.md)
-
-
-
-
-
 
