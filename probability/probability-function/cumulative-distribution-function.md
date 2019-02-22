@@ -27,12 +27,3 @@ $$ F(x) $$
 ![](http://i.imgur.com/CgB62gC.png)
 
 
-### 3.1 질량함수와 CDF관계
-
-
-
-### 3.2 밀도함수와 CDF관계 
-
-연속형의 누적분포함수를 미분하면 확률밀도함수
-
-누적분포함수를 미분하여 구한 도함수를 확률밀도함수(probability density function)
