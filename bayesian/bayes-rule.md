@@ -1,4 +1,4 @@
-# Bayes Rule
+# Bayes Rule 
 
 정의 
 - 이전의 경험과 현재의 증거를 토대로 어떤 사건의 확률을 추론하는 과정
@@ -61,6 +61,7 @@
 - '사전 확률'(prior probability) P(ωi)는 실험 전의 ωi의 확률이며, 
 - '사후 확률'(posterior probability) P(ωi|x)는 실험하여 x를 얻은 후의 ωi의 확률이다. 
 - 한편, P(x|ωi)는 명제 ωi가 참인 경우에 증거 x가 발생할 확률이다.
+
 
 
 

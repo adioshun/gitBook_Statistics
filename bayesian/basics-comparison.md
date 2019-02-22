@@ -59,12 +59,35 @@
 - Decision making
 
 
-### 3.1 Modeling
+### 3.1 Modeling(Model building block)
+
+#### A Likelihood
+
+Since y is observed, we often view p(y | θ) as a function of θ,
+
+l(θ|y) = p(y|θ)
+
+where l(θ|y) is called the likelihood function.
+
+
+#### B Prior
+
+이전의 observation으로 알고 있는 \theta distribution =p(\theta)
+
+#### C Posterior
+
+베이지안 통계의 주 목적이 posterior를 계산 하는것 
+
+![](https://i.imgur.com/5Dp9p2E.png)
+
+> 베이지 룰을 이용하여 계산(??)
+
 
 
 ### 3.2 Update
 
 ### 3.3 Decision
+
 
 
 
