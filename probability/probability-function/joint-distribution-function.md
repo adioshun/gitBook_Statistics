@@ -34,8 +34,6 @@ http://blog.naver.com/mykepzzang/220836634095
 
 
 
-
-
 ---
 
 # Marginal Probability Distribution(주변 확률 분포) 
