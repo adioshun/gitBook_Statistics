@@ -1,8 +1,13 @@
 ## 데이터 분석 3대 방법론 
-![](/assets/three_main.jpg)
+
 
 통계란 
 관심 대상에 대해 관련된 자료를 수집(`표본추출`, Sampling)하고, 요약(`기술통계`)하고, 불확실한 사실에 대한 결론이나 일반적인 규칙성을 추리(`추론통계`) 하는 학문
+
+
+![](/assets/three_main.jpg)
+
+
 
 ![](http://i.imgur.com/pQFRHZH.png)
 
@@ -24,6 +29,13 @@ Youtube
 - [나랭이의 수학 블로그](http://math7.tistory.com/)
 - [수악중독](http://mathjk.tistory.com/)
 
+
+[스탠포드 CS109](http://web.stanford.edu/class/archive/cs/cs109/cs109.1166/handouts/overview.html)
+
+
+[경북대-확률과정](http://www.kocw.net/home/cview.do?cid=33b341dd3b50640d): 최영숙 교
+
+수악중독 : [블로그](https://mathjk.tistory.com/3337)
 
 ![](http://i.imgur.com/qk6ihyP.png)
 
