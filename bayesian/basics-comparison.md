@@ -93,12 +93,13 @@ where l(θ|y) is called the likelihood function.
 
 ---
 
-![](https://i.imgur.com/WeSMo1Y.png)
 
 MLE(maximum likelihood estimate): 두번째 그림에서 값 6
 
 
 MAP(Maximum a posteriori estimate, Bayesian estimate) : 세번째 그림에서 값 5.5
+![](https://i.imgur.com/WeSMo1Y.png)
+
 
 
 
