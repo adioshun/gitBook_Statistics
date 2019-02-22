@@ -25,6 +25,10 @@ Youtube
 - Youtube : [이상화교수](https://www.youtube.com/playlist?list=PLSN_PltQeOyjmRIsC7VNirXOBqWoypd4V)
   - 교재 : Fundamentals of applied probability and random processes by oliver ibe﻿
 
+- Mooc : [최영숙 교수](http://www.kocw.net/home/cview.do?cid=33b341dd3b50640d): 경북대-확률과정
+
+
+
 블로그
 - [나랭이의 수학 블로그](http://math7.tistory.com/)
 - [수악중독](http://mathjk.tistory.com/)
@@ -33,7 +37,7 @@ Youtube
 [스탠포드 CS109](http://web.stanford.edu/class/archive/cs/cs109/cs109.1166/handouts/overview.html)
 
 
-[경북대-확률과정](http://www.kocw.net/home/cview.do?cid=33b341dd3b50640d): 최영숙 교
+
 
 수악중독 : [블로그](https://mathjk.tistory.com/3337)
 
