@@ -9,7 +9,6 @@
 
 * [Chap01\_조건부확률](chap01c870-ac74-bd80-d655-b960-bca0-c774-c988-c815-b9ac.md)
 * [Chap02\_순열과 조합](chap02c21c-c5f4-acfc-c870-d569.md)
-* [Chap03\_확률변수의 정의](chap03d655-b960-bcc0-c218-c758-c815-c758.md)
 
 ## 통계 추론 분석
 
