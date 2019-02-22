@@ -1,8 +1,10 @@
 # 용어
 
 ![](https://i.imgur.com/7qAV4Wh.png)
-![](https://i.imgur.com/pkyG0xQ.png)
 
+|![](https://i.imgur.com/pkyG0xQ.png)|[![Alt text](https://img.youtube.com/vi/JjX4EPhfUps/0.jpg)](https://www.youtube.com/watch?v=JjX4EPhfUps)|
+|-|-|
+|정리|동영상|
 
 ## 1. 확률 변수 
 
@@ -27,9 +29,9 @@
 확률 분포표
 - 확률 변수 x에 대한 확률을 `도수 분포표`로 만든것
 
-> https://www.youtube.com/watch?v=JjX4EPhfUps
 
-[![Alt text](https://img.youtube.com/vi/JjX4EPhfUps/0.jpg)](https://www.youtube.com/watch?v=JjX4EPhfUps)
+
+
 
 
 
