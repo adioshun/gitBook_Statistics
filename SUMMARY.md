@@ -23,7 +23,7 @@
 * [Descriptive\_Inferential](statistics/descriptiveinferential.md)
   * [Descriptive statistic](statistics/descriptiveinferential/descriptive-statistic.md)
   * [Inferential statistics](statistics/descriptiveinferential/inferential-statistics.md)
-  * Inferential statistics-Advance
+  * [Inferential statistics-Advance](statistics/descriptiveinferential/inferential-statistics-advance.md)
 * [Estimation](statistics/estimation.md)
 
 ## Probability
