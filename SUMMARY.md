@@ -29,6 +29,17 @@
   * [README](probability/probability-function/readme.md)
   * [Conditional Distribution](probability/probability-function/conditional-distribution.md)
 
+
+## 베이지안
+
+* [Bayesian\_Intro](bayesian/README.md)
+* [Bayesian statistic](bayesian/statistics.md)
+* [Bayesian Network](bayesian/network.md)
+
+
+
+
+
 ## 패턴 학습과 통계
 
 * [Bayes 정리](bayes-c815-b9ac.md)
