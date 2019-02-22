@@ -35,6 +35,7 @@
 ## 베이지안
 
 * [README](bayesian/README.md)
+* [Bayes Rule](bayesian/bayes-rule.md)
 * [Bayesian statistic](bayesian/statistics.md)
 * [Bayesian Network](bayesian/network.md)
 
