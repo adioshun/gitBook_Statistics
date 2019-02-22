@@ -36,9 +36,21 @@
 
 - 분모 : 전체 확률의 법칙 (Law of total probability, sum rule)
 
+![](https://i.imgur.com/u1MKevW.png)
+
+
+
 
 
 ## 3. 해석 
+
+### 3.1 설명 A
+
+베이지안 룰 `Bayes’ rule is a consequence of conditional probability,`
+
+![](https://i.imgur.com/6nxS25l.png)
+
+### 3.2 설명 B
 
 ![](https://i.imgur.com/KkgB9to.png)
 
@@ -49,16 +61,6 @@
 - '사전 확률'(prior probability) P(ωi)는 실험 전의 ωi의 확률이며, 
 - '사후 확률'(posterior probability) P(ωi|x)는 실험하여 x를 얻은 후의 ωi의 확률이다. 
 - 한편, P(x|ωi)는 명제 ωi가 참인 경우에 증거 x가 발생할 확률이다.
-
-
-
-
-
-
-
-
-
-
 
 
 

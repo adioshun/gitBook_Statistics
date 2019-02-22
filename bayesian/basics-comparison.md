@@ -1,7 +1,7 @@
 # 베이지안 통계 정의 및 비교 
 
 
-
+## 1. 비교 
 
 
 통계 분류 
@@ -18,6 +18,13 @@
 
 - 기존 통계학에서는 모집단을 변하지 않는 대상으로 규정하지만, '베이즈 통계학'에서는 '모집단을 미리 확정짓지 않는 것'이 특징입니다.
 
+기존 통계학과의 차이점 `COMPARISON: BAYES VS FREQUENTIST`
+
+- We wish to estimate the height of the Eiffel tower.
+- Frequentist perspective: the tower has a certain height and is therefore not random.
+- Bayesian perspective: we describe our uncertainties in the height stochastically -> height is described as random!
+
+## 2. 정의 
 
 정의 
 - A statistical inference framework
@@ -45,13 +52,29 @@
 - 결과 : vehicle motions are modelled statistically
 
 
-기존 통계학과의 차이점 `COMPARISON: BAYES VS FREQUENTIST`
-
-- We wish to estimate the height of the Eiffel tower. 
-    - Frequentist perspective: the tower has a certain height and is therefore not random.
-    - Bayesian perspective: we describe our uncertainties in the height stochastically -> height is described as random!
     
-OVERVIEW OF THE BAYESIAN STRATEG
-- Modeling.
+## 3. OVERVIEW OF THE BAYESIAN STRATEGY
+- Modeling
 - Measurement update (본 강의에서 주로 다룸) 
 - Decision making
+
+
+### 3.1 Modeling
+
+
+### 3.2 Update
+
+### 3.3 Decision
+
+
+
+
+
+
+
+
+
+
+
+
+
