@@ -19,10 +19,11 @@
 ## Statistics
 
 * README
-* Basic
-* Descriptive_Inferential
-  * Descriptive statistic
-  * Inferential statistics
+* [Basic](statistics/basic.md)
+* [Descriptive\_Inferential](statistics/descriptiveinferential.md)
+  * [Descriptive statistic](statistics/descriptiveinferential/descriptive-statistic.md)
+  * [Inferential statistics](statistics/descriptiveinferential/inferential-statistics.md)
+  * Inferential statistics-Advance
 * [Estimation](statistics/estimation.md)
 
 ## Probability
