@@ -5,12 +5,6 @@
 * [README](README.md)
 * [References](references.md)
 
-## 통계 기초
-
-* [Chap01\_조건부확률](chap01c870-ac74-bd80-d655-b960-bca0-c774-c988-c815-b9ac.md)
-* [Chap02\_순열과 조합](chap02c21c-c5f4-acfc-c870-d569.md)
-
-
 ## Statistics
 
 * README
