@@ -3,10 +3,11 @@
 ## 개요
 
 * [README](README.md)
-* [기술통계분석](기술통계분석.md)
+* [References](references.md)
 
 ## 통계 기초
 
+* [기술통계분석](기술통계분석.md)
 * [Chap01\_조건부확률](chap01c870-ac74-bd80-d655-b960-bca0-c774-c988-c815-b9ac.md)
 * [Chap02\_순열과 조합](chap02c21c-c5f4-acfc-c870-d569.md)
 
@@ -45,5 +46,4 @@
   * [확률 분포 추정\_모수적](d655-b960-bc00-b3c4-d568-c218-cd94-c815/d655-b960-bd84-d3ec-cd94-c815-baa8-c218-c801.md)
   * [확률 분포 추정\_비모수적](d655-b960-bc00-b3c4-d568-c218-cd94-c815/d655-b960-bd84-d3ec-cd94-c815-be44-baa8-c218-c801.md)
   * [확률 분포 추정\_혼합형](d655-b960-bc00-b3c4-d568-c218-cd94-c815/d655-b960-bd84-d3ec-cd94-c815-d63c-d569-d615.md)
-* [References](references.md)
 
