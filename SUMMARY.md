@@ -17,8 +17,9 @@
 * [통계추론 분석\_심화](통계-분석.md)
 
 ## Statistics
+
 * README
-* Estimation
+* [Estimation](statistics/estimation.md)
 
 ## Probability
 
