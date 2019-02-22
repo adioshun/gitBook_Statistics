@@ -4,6 +4,27 @@ probability distributions are also characterized by their **mean vectors** and *
 
 ![](https://i.imgur.com/RjzDfxW.png)
 
+```
+평균(Mean) : 값들의 중간값 
+
+편차(Deviation) : 각 항목의 평균값에서의 흩어진 정도
+- 각 항목들의 흩어진 정도를 알수 있음 
+- 전체의 흩어진 정도(하나의 값으로) 표현 불가, 하나의 값(=Sum)시 0이 됨(상쇄)
+
+분산(Variance) : 전체의 흩어진 정도 
+- 편차를 제곱 후 sum
+
+표준 편차(Standard Devication): 분산의 제곱근, 값이 너무 큼으로 원래로 변환  
+
+공분산(Covariance) : 각 항목들에 상관 관계 표현 
+
+상관계수(Correlation coefficient) : 각 항목들에 상관 관계를 **0~1사이로 정규화** 표현
+
+> 다변수 확률변수 간의 상관 관계를 숫자로 나타낸 것 : 공분산 & 상관계수 
+```
+
+
+
 
 ## 1. Expectation (= Mean vector)
 
@@ -30,22 +51,16 @@ probability distributions are also characterized by their **mean vectors** and *
 
 
 
-## 2. Covariance 
+## 2. Covariance matrix
 
-평균(Mean) : 값들의 중간값 
+2 이상의 변량들에서, 다수의 두 변량 값들 간의 공분산 또는 상관계수들을 행렬로 표현한 것
 
-편차(Deviation) : 각 항목의 평균값에서의 흩어진 정도
-- 각 항목들의 흩어진 정도를 알수 있음 
-- 전체의 흩어진 정도(하나의 값으로) 표현 불가, 하나의 값(=Sum)시 0이 됨(상쇄)
+- (i,j) 요소 값은, 두 변량 xi, xj 간에 구해진 공분산 값 임
 
-분산(Variance) : 전체의 흩어진 정도 
-- 편차를 제곱 후 sum
+- (i,i) 요소 값은, 동일 변량 xi 자신의 분산 값인 Var[xi] 임 
 
-표준 편차(Standard Devication): 분산의 제곱근, 값이 너무 큼으로 원래로 변환  
+![](https://i.imgur.com/rLtGePS.png)
 
-공분산(Covariance) : 각 항목들에 상관 관계 표현 
-
-상관계수(Correlation coefficient) : 각 항목들에 상관 관계를 **0~1사이로 정규화** 표현
 
 ---
 
