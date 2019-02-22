@@ -27,7 +27,7 @@ Youtube
 
 - Mooc : [최영숙 교수](http://www.kocw.net/home/cview.do?cid=33b341dd3b50640d): 경북대-확률과정
 
-
+- [Statistics 110 from Harvard](https://www.edwith.org/harvardprobability/lecture/30897/): edWith
 
 블로그
 - [나랭이의 수학 블로그](http://math7.tistory.com/)
