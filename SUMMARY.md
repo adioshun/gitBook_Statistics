@@ -21,6 +21,7 @@
 * [Random-Variance\(확률변수\)](probability/random-variance.md)
 * [Probability-Distribution](probability/probability-distribution.md)
   * [Common Probability Distributions](probability/probability-distribution/common-probability-distributions.md)
+  * [NormalDistribution](probability/probability-distribution/normaldistribution.md)
 * [Probability-Function](probability/probability-function.md)
   * [Probability Mass Function\(확률 질량 함수\)](probability/probability-function/probability-mass-function.md)
   * [Cumulative Distribution Function\(누적분포함수\)](probability/probability-function/cumulative-distribution-function.md)
@@ -29,16 +30,11 @@
   * [README](probability/probability-function/readme.md)
   * [Conditional Distribution](probability/probability-function/conditional-distribution.md)
 
-
 ## 베이지안
 
 * [Bayesian\_Intro](bayesian/README.md)
 * [Bayesian statistic](bayesian/statistics.md)
 * [Bayesian Network](bayesian/network.md)
-
-
-
-
 
 ## 패턴 학습과 통계
 
