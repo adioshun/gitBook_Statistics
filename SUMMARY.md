@@ -33,7 +33,7 @@
 
 ## 베이지안
 
-* [Bayesian\_Intro](bayesian/README.md)
+* [README](bayesian/README.md)
 * [Bayesian statistic](bayesian/statistics.md)
 * [Bayesian Network](bayesian/network.md)
 
@@ -45,4 +45,5 @@
   * [확률 분포 추정\_모수적](d655-b960-bc00-b3c4-d568-c218-cd94-c815/d655-b960-bd84-d3ec-cd94-c815-baa8-c218-c801.md)
   * [확률 분포 추정\_비모수적](d655-b960-bc00-b3c4-d568-c218-cd94-c815/d655-b960-bd84-d3ec-cd94-c815-be44-baa8-c218-c801.md)
   * [확률 분포 추정\_혼합형](d655-b960-bc00-b3c4-d568-c218-cd94-c815/d655-b960-bd84-d3ec-cd94-c815-d63c-d569-d615.md)
+* [References](references.md)
 
