@@ -4,6 +4,8 @@
 ![](https://i.imgur.com/pkyG0xQ.png)
 
 
+## 1. 확률 변수 
+
 확률변수(Random variable): 확률에 따라 변하는 값 (변수 = 특정 조건에 따라 변하는 값)
 - 표본 공간을 정의역(domain)으로 가지고 실수를 공역(range)으로 가지는 **함수**
     - 즉 표본 공간의 모든 표본에 대해 어떤 실수 값을 붙인(할당한) 것이다.
@@ -12,9 +14,13 @@
     - 주사위를 던질때 나오는 수 : $$ X_1 \in \{1,2,3,4,5,6\} $$
     - 주사위를 두번 던질때 나오는 수의 합 : $$ X_2 \in \{2,3,4,...,11,12\} $$
 
+---
+
+## 2. 확률 분포 
 
 
 확률 분포(probability distribution)
+- 모든 확률 변수에 따라 나오는 값을 나열한것 
 - 확률 변수가 나올 확률 (eg, 1/4, 1/2)
 - 확률 함수를 통해 도출 
 
@@ -22,6 +28,10 @@
 - 확률 변수 x에 대한 확률을 `도수 분포표`로 만든것
 
 > https://www.youtube.com/watch?v=JjX4EPhfUps
+
+[![Alt text](https://img.youtube.com/vi/JjX4EPhfUps/0.jpg)](https://www.youtube.com/watch?v=JjX4EPhfUps)
+
+
 
 
 ```
