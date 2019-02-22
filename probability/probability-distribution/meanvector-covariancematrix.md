@@ -53,11 +53,11 @@ probability distributions are also characterized by their **mean vectors** and *
 
 ## 2. Covariance matrix
 
-2 이상의 변량들에서, 다수의 두 변량 값들 간의 공분산 또는 상관계수들을 행렬로 표현한 것
+ 이상의 변량들에서, 다수의 두 변량 값들 간의 공분산 또는 상관계수들을 행렬로 표현한 것
 
-- (i,j) 요소 값은, 두 변량 xi, xj 간에 구해진 공분산 값 임
+- (i,j) 요소 값은, 두 변량 xi, xj 간에 구해진 **공분산 값** 임
 
-- (i,i) 요소 값은, 동일 변량 xi 자신의 분산 값인 Var[xi] 임 
+- (i,i) 요소 값은, 동일 변량 xi 자신의 **분산 값**인 Var[xi] 임 
 
 ![](https://i.imgur.com/rLtGePS.png)
 
