@@ -28,11 +28,13 @@
 
 ## 2. 유도 
 
-![](https://i.imgur.com/GM4l35r.png)
+-  분자 :확률의 곱셈정리 (Conditional Probability, product rule)
 
-이 공식의 유도는, 다음의 '조건부 확률'(conditional probability) 공식으로부터 유도될 수 있다.
-- 분자 :확률의 곱셈정리 
-- 분모 : 전체 확률의 법칙 
+    ![](https://i.imgur.com/GM4l35r.png)
+
+
+
+- 분모 : 전체 확률의 법칙 (Law of total probability, sum rule)
 
 
 
