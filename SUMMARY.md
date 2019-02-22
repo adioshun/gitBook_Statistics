@@ -18,7 +18,7 @@
 ## Probability
 
 * [README](probability/readme.md)
-* [Random-Variance](probability/random-variance.md)
+* [Random-Variance\(확률변수\)](probability/random-variance.md)
 * [Probability-Distribution](probability/probability-distribution.md)
   * [Common Probability Distributions](probability/probability-distribution/common-probability-distributions.md)
 * [Probability-Function](probability/probability-function.md)

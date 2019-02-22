@@ -44,3 +44,6 @@
 ```
 
 
+
+---
+[데이터 사이언스 스쿨-확률변수](https://datascienceschool.net/view-notebook/4bcfe70a64de40ec945639236b0e911d/)

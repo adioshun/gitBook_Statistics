@@ -10,3 +10,6 @@
 
 
 
+---
+
+- [데이터 사이언스 스쿨-확률분포함수](https://datascienceschool.net/view-notebook/c46ce2d2a60d48edbc7c3e6e71394c26/)
