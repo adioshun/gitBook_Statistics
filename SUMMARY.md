@@ -28,7 +28,7 @@
   * [Cumulative Distribution Function\(누적분포함수\)](probability/probability-function/cumulative-distribution-function.md)
   * [Probability Density Function\(확률밀도함수\)](probability/probability-function/probability-density-function.md)
   * [Joint Distribution Function](probability/probability-function/joint-distribution-function.md)
-  * Marginal Distribution Function
+  * [Marginal Distribution Function](probability/probability-function/marginal-distribution-function.md)
   * [README](probability/probability-function/readme.md)
   * [Conditional Distribution](probability/probability-function/conditional-distribution.md)
 
