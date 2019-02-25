@@ -24,6 +24,8 @@
 - Frequentist perspective: the tower has a certain height and is therefore not random.
 - Bayesian perspective: we describe our uncertainties in the height stochastically -> height is described as random!
 
+![](https://i.imgur.com/xc23ScH.png)
+
 ## 2. 정의 
 
 정의 
