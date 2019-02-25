@@ -1,4 +1,4 @@
-# 확률 함수 
+# 확률 함수 (= 확률 분포 함수)
 
 ![](https://i.imgur.com/7qAV4Wh.png)
 
