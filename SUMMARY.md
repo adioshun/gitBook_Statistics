@@ -27,7 +27,6 @@
   * [Probability distribution of Continuous](probability/probability-distribution/probability-distribution-of-continuous.md)
   * [MeanVector-CovarianceMatrix](probability/probability-distribution/meanvector-covariancematrix.md)
 * [확률함수\(Probability-Function\)](probability/probability-function.md)
-  * [README](probability/probability-function/readme.md)
   * [Probability Mass Function\(확률 질량 함수\)](probability/probability-function/probability-mass-function.md)
   * [Cumulative Distribution Function\(누적분포함수\)](probability/probability-function/cumulative-distribution-function.md)
   * [Probability Density Function\(확률밀도함수\)](probability/probability-function/probability-density-function.md)
