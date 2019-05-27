@@ -18,12 +18,12 @@
 ## Probability
 
 * [README](probability/readme.md)
-* [Random-Variance\(확률변수\)](probability/random-variance.md)
-* [Probability-Distribution](probability/probability-distribution.md)
+* [확률변수\(Random-Variance\)](probability/random-variance.md)
+* [확률분포\(Probability-Distribution\)](probability/probability-distribution.md)
   * [Common Probability Distributions](probability/probability-distribution/common-probability-distributions.md)
   * [MeanVector-CovarianceMatrix](probability/probability-distribution/meanvector-covariancematrix.md)
   * [NormalDistribution](probability/probability-distribution/normaldistribution.md)
-* [Probability-Function](probability/probability-function.md)
+* [확률함수\(Probability-Function\)](probability/probability-function.md)
   * [Probability Mass Function\(확률 질량 함수\)](probability/probability-function/probability-mass-function.md)
   * [Cumulative Distribution Function\(누적분포함수\)](probability/probability-function/cumulative-distribution-function.md)
   * [Probability Density Function\(확률밀도함수\)](probability/probability-function/probability-density-function.md)
