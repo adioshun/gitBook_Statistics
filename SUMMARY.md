@@ -20,7 +20,7 @@
 * [README](probability/readme.md)
 * [확률변수\(Random-Variance\)](probability/random-variance.md)
   * [Random variable of Discrete](probability/random-variance/random-variable-of-discrete.md)
-  * Random variable of Continuous
+  * [Random variable of Continuous](probability/random-variance/random-variable-of-continuous.md)
 * [확률분포\(Probability-Distribution\)](probability/probability-distribution.md)
   * [Common Probability Distributions](probability/probability-distribution/common-probability-distributions.md)
   * [MeanVector-CovarianceMatrix](probability/probability-distribution/meanvector-covariancematrix.md)
