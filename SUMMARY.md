@@ -7,7 +7,7 @@
 
 ## Statistics
 
-* README
+* [README](statistics/readme.md)
 * [Basic](statistics/basic.md)
 * [Descriptive\_Inferential](statistics/descriptiveinferential.md)
   * [Descriptive statistic](statistics/descriptiveinferential/descriptive-statistic.md)
