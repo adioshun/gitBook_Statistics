@@ -1,0 +1,1 @@
+베이지 추론 : 사후 확률이 최대인것 찾기 문제 = MAP(Maximum a posteriori)
