@@ -4,6 +4,7 @@
 
 * [README](README.md)
 * [References](references.md)
+* [Covariance and Correlation matrix ](variance-covariance-matrix.md)
 
 ## Statistics
 
